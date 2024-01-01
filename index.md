@@ -2,9 +2,9 @@
 
 ---
 
-### Category Name 1 
+### Restaurant Revenue Prediction
 
-[Restaurant Revenue Prediction](/sample_page)
+[Project 1 Title](/sample_page)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
