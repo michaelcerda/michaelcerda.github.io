@@ -4,7 +4,7 @@
 
 ### Category Name 1 
 
-[Project 1 Title](/sample_page)
+[Restaurant Revenue Prediction](/sample_page)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
