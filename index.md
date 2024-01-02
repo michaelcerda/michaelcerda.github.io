@@ -8,7 +8,7 @@
 <img src="RR_2.png"/>
 
 ---
-[Project 2 Title](/pdf/sample_presentation.pdf)
+[Microsoft Stock Forecasting with LSTM](https://github.com/michaelcerda/Kaggle-Projects/blob/main/Microsoft_Stock_Forecasting_with_LSTMs.ipynb)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
@@ -17,13 +17,7 @@
 
 ---
 
-### Category Name 2
 
-- [Project 1 Title](http://example.com/)
-- [Project 2 Title](http://example.com/)
-- [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
 
 ---
 
