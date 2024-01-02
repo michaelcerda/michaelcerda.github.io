@@ -5,7 +5,7 @@
 ### Data Science
 
 [Kaggle: Restaurant Revenue Prediction](https://github.com/michaelcerda/Kaggle-Projects/blob/main/Regression_Restaurant_Revenue.ipynb)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="RR_2.png"/>
 
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)
