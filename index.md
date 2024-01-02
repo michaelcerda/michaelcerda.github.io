@@ -2,9 +2,9 @@
 
 ---
 
-### Restaurant Revenue Prediction
+### Data Science
 
-[Project 1 Title](/sample_page)
+[Kaggle: Restaurant Revenue Prediction](/sample_page)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
